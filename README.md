@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - Email: kekjesslyn@gmail.com
 - 😄 Pronouns: Jesslyn
+  </body>
+  </html>
