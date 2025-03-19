@@ -24,6 +24,7 @@ Computer+Science+In+Data+Engineering+Student,;Active+Learner/Researcher,;Love+to
   - Born in Johor
   - Currently a Year 3 student studying Bachelor Computer Science(Data Engineering) in Universiti Teknologi Malaysia (UTM)
   - My hobby is sleeping...ya it is the action which you lie down on the bed and close your eyes hahah
+  - Although I like to sleep but I will also finish my tasks before sleeping
   - I like to challenge myself by exploring myself to the field that had not been explored
   
   <br><br>
