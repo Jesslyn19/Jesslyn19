@@ -16,7 +16,7 @@ Computer+Science+In+Data+Engineering+Student,;Active+Learner/Researcher,;Love+to
 
   <br>
   
-  ## <picture><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fself-love-all-about-me-alixcarman-mFGAiMpaBMxytdVHbM&psig=AOvVaw11iey72bhM0eRE9NynQKBE&ust=1742435792950000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi7lKuFlYwDFQAAAAAdAAAAABAE" width = 50px></picture> **About me**
+  ## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ5eTVwNTVnbnYzbG5mdWgwMmFjM2JoOHJlbWpnYWtyOGRoM2o1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mFGAiMpaBMxytdVHbM/giphy.gif" width = 50px></picture> **About me**
   
   <picture> <img align="right" src="https://github.com/Jesslyn19/Jesslyn19/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
   
